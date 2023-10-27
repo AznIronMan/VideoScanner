@@ -1,0 +1,15 @@
+argparse
+datetime
+icecream
+inspect
+moviepy
+os
+pickle
+platform
+pydub
+request
+shutil
+srt
+tkinter
+traceback
+whisper-timestamped
